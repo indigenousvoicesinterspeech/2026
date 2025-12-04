@@ -187,10 +187,15 @@ ul {
     background-color: var(--color-light-accent);
 }
 
+/* --- Cfp Section (Grid) --- */
+.related-works-section {
+    background-color: var(--color-background);
+}
+
 
 /* --- Speakers Section (Cards) --- */
 .speakers-section {
-    background-color: var(--color-background);
+    background-color: var(--color-light-accent);
 }
 
 .speaker-card-container {
