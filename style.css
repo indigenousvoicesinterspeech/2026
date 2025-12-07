@@ -34,6 +34,10 @@ h1, h2, h3 {
     margin-bottom: 0.5em;
 }
 
+h1, .hero-details, .subtitle {
+    text-align: center
+    }
+    
 h2 {
     font-size: 2.5em;
     text-align: left;
